@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : 
+  username               : &twitter
 facebook:
   username               :
   app_id                 :
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Alfred Zou"
   avatar           : "profile.png"
-  bio              : "Data Science Graduate from General Assembly | Aspring Data Analyst | Machine Learning Enthusiast2"
-  location         : "Sydney, Australia"
+  bio              : "Data Science Graduate from General Assembly<br>Aspring Data Analyst<br>Machine Learning Enthusiast"
+  location         : 
   employer         :
   pubmed           : 
   googlescholar    : 
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
