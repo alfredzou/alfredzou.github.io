@@ -1,12 +1,10 @@
 ---
 title: 'Reflection on General Assembly's Data Science Immersive Course'
 date: 04/04/2020
-permalink: /posts/2020/04/blog-post-1/
+permalink: /posts/2020/04/Reflection/
 tags:
   - General Assembly
   - Data
-  - Data Analytics
-  - Data Science
 ---
 
 ##### Introduction
@@ -31,7 +29,7 @@ The Data Science course can be taken both part-time and full-time at General Ass
 
 They’re not kidding when they say immersive. It means tell your friends and family that you’ll be unavailable for the next 3 months. The pace of the course is so crazily fast, its expected that people fall behind. The best analogy I’ve read, is that its like drinking water from a fire hose. The daily schedule involves learning 2 to 4 new topics in a day. On top of that there are projects sprinkled throughout that take up a long time as well. That’s not all, there are also weekly outcome sessions with homework, which help you prepare for job hunting. The most difficult outcome homework was to arrange a coffee date through a cold contact. This course is definitely not an easy one, if you take it, it’s going to be your whole life for the next 3 months.
 
-My initial attitude of perfectionism or ‘I want to learn everything thoroughly’ quickly lead to ‘I don’t want to fall behind’ (and I did fall behind). The course starts off with python, which was easy for me. This was because before the course had even began, I had already spent at least a month learning python.  However, those not experienced with coding will struggle and even one person from Sydney had pulled out. So, my greatest recommendation is to learn python before you attend the course. My favourite place to learn python was from (Socratica’s Python playlist) [https://www.youtube.com/watch?v=bY6m6_IIN94&list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er-]. 
+My initial attitude of perfectionism or ‘I want to learn everything thoroughly’ quickly lead to ‘I don’t want to fall behind’ (and I did fall behind). The course starts off with python, which was easy for me. This was because before the course had even began, I had already spent at least a month learning python.  However, those not experienced with coding will struggle and even one person from Sydney had pulled out. So, my greatest recommendation is to learn python before you attend the course. My favourite place to learn python was from (Socratica’s Python playlist)[https://www.youtube.com/watch?v=bY6m6_IIN94&list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er-]. 
 
 If I recall correctly the first 3 weeks is essentially data analytics through statistics, databases and python to clean data. Those without a statistical background, like me, will struggle heavily with the statistical side of things. Roughly weeks 4 to 10 will be spent on learning machine learning, which is data science. The final 2 weeks will be spent on working on a machine learning capstone project. I had chosen to do a machine translation project utilising neural networks. This was an extremely difficult project that I did not end up finishing by the end of the course but I plan on continuing into the future. I would recommend choosing a simpler project that can be completed within the final two weeks.
 
