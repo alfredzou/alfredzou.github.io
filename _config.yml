@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Alfred Zou - Aspiring Data Analyst"
 title_separator          : "-"
 name                     : &name "Alfred Zou"
-description              : &description "Data Science Graduate from General Assembly<br>Aspring Data Analyst<br>Machine Learning Enthusiast"
+description              : &description "Data Science Graduate from General Assembly"
 url                      : https://alfredzou.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "alfredzou/alfredzou.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Alfred Zou"
   avatar           : "Alfred.png"
-  bio              : "Aspiring Data Analyst | Python | SQL | Tableau | Machine Learning Enthusiast"
+  bio              : "Data Science graduate | Python | SQL | Tableau | Machine Learning Enthusiast"
   location         : 
   employer         :
   pubmed           : 
