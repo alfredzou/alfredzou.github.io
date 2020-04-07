@@ -1,10 +1,11 @@
 ---
-title: 'Reflection on General Assembly's Data Science Immersive Course'
-date: 04/04/2020
-permalink: /posts/2020/04/Reflection/
+title: 'Blog Post number 4'
+date: 2015-08-14
+permalink: /posts/2012/08/blog-post-4/
 tags:
-  - General Assembly
-  - Data
+  - cool posts
+  - category1
+  - category2
 ---
 
 ##### Introduction
@@ -35,7 +36,7 @@ If I recall correctly the first 3 weeks is essentially data analytics through st
 
 I think the experience at a GA immersive course, is make or break by how well you get along with your cohort. My friend had also told me the same thing. My cohort was AMAZING, I got along with them so well and I’ve definitely made friends for life. Similarly, my teaching instructor and teacher were also amazing and supportive.
 
-<img src='/images/GA Photo.png'>
+<img src='../../images/GA Photo.png'>
 
 Normally at the end of the course there is meant to be an employee meet and greet. The meet and greet is like a career fair where GA graduates show case their capstone projects to prospective employees. However, this ended up being cancelled due to COVID-19 safety concerns.
 
