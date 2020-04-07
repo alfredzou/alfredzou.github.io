@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Site in Construction"
+title: "Site under Construction"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Please check back in later
+Please check back in later. Expected completion 8/04/2020
