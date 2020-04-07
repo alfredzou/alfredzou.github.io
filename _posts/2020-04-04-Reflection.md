@@ -1,11 +1,12 @@
 ---
 title: "Reflection on General Assembly's Data Science Immersive course"
-date: 2020-08-14
-permalink: /posts/2012/08/blog-post-4/
+date: 2020-04-07
+permalink: /posts/2020/04/blog-post-1/
 tags:
-  - cool posts
-  - category1
-  - category2
+  - General Assembly
+  - Data
+  - Data Analytics
+  - Data Sciecne
 ---
 
 ##### Introduction
