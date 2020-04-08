@@ -8,7 +8,7 @@ author_profile: true
 ### Contact me via:
 
 * LinkedIn: <a href="https://www.linkedin.com/in/alfred-zou">linkedin.com/in/alfred-zou</a>
-* E-mail: <a href="alfredzou@outlook.com">alfredzou@outlook.com</a>
+* E-mail: <a href="mailto:alfredzou@outlook.com">alfredzou@outlook.com</a>
 * Zoom meeting: <a href="https://calendly.com/alfredzou/zoom-meeting-30-mins">Zoom</a>
 * Google Hangouts meeting: <a href="https://calendly.com/alfredzou/google-hangouts-30-mins">Google Calendar</a>
 
