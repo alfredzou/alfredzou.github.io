@@ -15,7 +15,7 @@ author_profile: true
 ### Also find me at:
 
 * GitHub: <a href="https://github.com/alfredzou">github.com/alfredzou</a>
-* General Assembly alumni profile: <a href=https://profiles.generalassemb.ly/profiles/alfredzou">profiles.generalassemb.ly/profiles/alfredzou</a>
+* General Assembly alumni profile: <a href=https://profiles.generalassemb.ly/profiles/alfredzou"> profiles.generalassemb.ly/profiles/alfredzou</a>
 
 ### Download my Resume/CV:
 
