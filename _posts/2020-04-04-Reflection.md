@@ -19,13 +19,13 @@ Out of high school, I took a 5 and a half year engineering and commerce degree f
 
 I soon realised I wasn't enjoying my work nor the industry and I knew I needed a career change. Coincidently my friend had previously taken General Assembly’s Data Science Immersive course, which put the data industry on my radar. I realised that I could utilise data analytics to help businesses make well-informed decisions. This appealed to my enjoyment of strategic planning. For these reasons I decided to move into the field of data.
 
-Having decided on moving into the field of data, or figuring out the *WHY*, I needed to decide *HOW*. There are many options, but the two main ones are university degree or a bootcamp. Data science university degrees take at least 2 years and up to 3. I definitely didn’t want to pursue this route for lots of reasons. I’ve already spent 5 and a half years at university and I wanted to get back into the work force as quick as possible. Another reason, is that I felt my engineering degree didn’t help much with my engineering job. 
+Having decided on moving into the field of data, or figuring out the **WHY**, I needed to decide **HOW**. There are many options, but the two main ones are university degree or a bootcamp. Data science university degrees take at least 2 years and up to 3. I definitely didn’t want to pursue this route for lots of reasons. I’ve already spent 5 and a half years at university and I wanted to get back into the work force as quick as possible. Another reason, is that I felt my engineering degree didn’t help much with my engineering job. 
 
 The obvious choice was a bootcamp for data. They’re quick, practical but expensive. I could have taken a data analytics bootcamp, but I also wanted an introduction to data science as well. Given my friends positive experience in the bootcamp and success in the industry, I choose General Assembly’s Data Science Immersive course.
 
 ### Experience at General Assembly DSI course
 
-*Disclaimer*: GA courses have gone online due to COVID-19 safety concerns, so my experiences may not be a good representation of a future Data Science Immersive course at GA.
+**Disclaimer**: GA courses have gone online due to COVID-19 safety concerns, so my experiences may not be a good representation of a future Data Science Immersive course at GA.
 
 The Data Science course can be taken both part-time and full-time at General Assembly. I took the full-time immersive course in the Sydney campus, so that’s what I’ll be talking about. The course is 3 months long, 9am to 5pm with 1-hour lunch break. Both Sydney and Melbourne classes are taught by one teacher through Zoom. There is also one local teaching instructor for each Sydney and Melbourne. In my cohort DSI+09, we had 6 students in Sydney and 7 students in Melbourne. However, as a word of caution, the classroom microphones were working well for a few weeks but afterwards Sydney was inaudible to Melbourne and vice versa. I raised this technical issue but it was never fixed.
 
