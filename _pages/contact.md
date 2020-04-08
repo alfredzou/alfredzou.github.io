@@ -5,7 +5,14 @@ excerpt: "Contact me"
 author_profile: true
 ---
 
-* LinkedIn: linkedin.com/in/alfred-zou
+### Contact me via:
+
+* LinkedIn: https://www.linkedin.com/in/alfred-zou
 * E-mail: alfredzou@outlook.com
-* GitHub: github.com/alfredzou
-* General Assembly alumni profile: profiles.generalassemb.ly/alfredzou 
+* Arrange a Zoom meeting with me at: https://calendly.com/alfredzou/zoom-meeting-30-mins
+* Or arrange a Google Hangouts meeting with me at: https://calendly.com/alfredzou/google-hangouts-30-mins
+
+### Also find me at:
+
+* GitHub: https://github.com/alfredzou
+* General Assembly alumni profile: https://profiles.generalassemb.ly/profiles/alfredzou
