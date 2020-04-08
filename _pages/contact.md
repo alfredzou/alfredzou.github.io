@@ -7,7 +7,7 @@ author_profile: true
 
 ### Contact me via:
 
-* LinkedIn: <a href="https://www.linkedin.com/in/alfred-zou"></a>
+* LinkedIn: <a href="https://www.linkedin.com/in/alfred-zou">linkedin.com/in/alfred-zou</a>
 * E-mail: alfredzou@outlook.com
 * Arrange a Zoom meeting with me at: https://calendly.com/alfredzou/zoom-meeting-30-mins
 * Or arrange a Google Hangouts meeting with me at: https://calendly.com/alfredzou/google-hangouts-30-mins
