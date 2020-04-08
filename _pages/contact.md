@@ -20,3 +20,4 @@ author_profile: true
 ### Download my Resume/CV:
 
 * [Download my Resume/CV](https://github.com/alfredzou/alfredzou.github.io/raw/master/files/Alfred%20Zou%20Resume.pdf)
+* <a href='https://github.com/alfredzou/alfredzou.github.io/raw/master/files/Alfred Zou Resume.pdf'>Download PDF here</a>
