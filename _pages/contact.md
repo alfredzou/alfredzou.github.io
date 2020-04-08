@@ -8,14 +8,14 @@ author_profile: true
 ### Contact me via:
 
 * LinkedIn: <a href="https://www.linkedin.com/in/alfred-zou">linkedin.com/in/alfred-zou</a>
-* E-mail: alfredzou@outlook.com
-* Arrange a Zoom meeting with me at: https://calendly.com/alfredzou/zoom-meeting-30-mins
-* Or arrange a Google Hangouts meeting with me at: https://calendly.com/alfredzou/google-hangouts-30-mins
+* E-mail: <a href="alfredzou@outlook.com">alfredzou@outlook.com</a>
+* Zoom meeting: <a href="https://calendly.com/alfredzou/zoom-meeting-30-mins">Zoom</a>
+* Google Hangouts meeting: <a href="https://calendly.com/alfredzou/google-hangouts-30-mins">Google Calendar</a>
 
 ### Also find me at:
 
-* GitHub: https://github.com/alfredzou
-* General Assembly alumni profile: https://profiles.generalassemb.ly/profiles/alfredzou
+* GitHub: <a href="https://github.com/alfredzou">github.com/alfredzou</a>
+* General Assembly alumni profile: <a href=https://profiles.generalassemb.ly/profiles/alfredzou">profiles.generalassemb.ly/profiles/alfredzou</a>
 
 ### Download my Resume/CV:
 
