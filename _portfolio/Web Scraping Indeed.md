@@ -5,5 +5,4 @@ collection: portfolio
 ---
 
 ### Links
-* View the dashboard [here](https://public.tableau.com/profile/alfred.zou#!/vizhome/COVID-19_15852011851070/COVID-19)
 * Find the code [here](https://github.com/alfredzou/Web-Scraping-Indeed)
