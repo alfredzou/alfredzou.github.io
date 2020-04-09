@@ -2,6 +2,7 @@
 title: "Reflection on General Assembly's Data Science Immersive course"
 date: 2020-04-07
 permalink: /posts/2020/04/blog-post-1/
+excerpt: "Short description of portfolio item number 2 <br/><img src='/images/500x300.png'>"
 tags:
   - General Assembly
   - Data
