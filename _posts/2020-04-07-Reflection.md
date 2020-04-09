@@ -10,6 +10,8 @@ tags:
   - Data Science
 ---
 
+<img src='/user_images/GA logo.png'>
+
 ### Introduction
 
 Recently I finished General Assembly's 3-month Data Science Immersive (DSI) course. I would like to take a moment to reflect on my journey and my achievements. 
