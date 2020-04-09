@@ -2,7 +2,7 @@
 title: "Reflection on General Assembly's Data Science Immersive course"
 date: 2020-04-07
 permalink: /posts/2020/04/blog-post-1/
-excerpt: """Was the course worth it? <br/><img src='/user_images/GA_logo.png' width="300">"""
+excerpt: "Was the course worth it? <br/><img src='/user_images/GA_logo.png' width='300'>"
 tags:
   - General Assembly
   - Data
