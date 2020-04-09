@@ -10,7 +10,7 @@ tags:
   - Data Science
 ---
 
-<img src='/user_images/GA logo.png'>
+<img src='/user_images/GA_logo.png'>
 
 ### Introduction
 
