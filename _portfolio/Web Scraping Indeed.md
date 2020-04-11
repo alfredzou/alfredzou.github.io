@@ -4,6 +4,8 @@ excerpt: "Web scraper to extract job title, salary, company, location, employmen
 collection: portfolio
 ---
 
+<img src='/user_images/indeed_logo.png' width='300px'>
+
 ### Links
 * Find the code [here](https://github.com/alfredzou/Web-Scraping-Indeed)
 
