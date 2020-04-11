@@ -1,8 +1,10 @@
 ---
 title: "Web Scraping Indeed"
-excerpt: "Web scraper to extract job title, salary, company, location, employment type and description from data related jobs on Indeed.<br/><img src='/user_images/indeed_logo.png' width='300px'>"
+excerpt: "Web scraper to extract job title, salary, company, location, employment type and description with responsibility analysis for between data engineer, analyst, scientist and business analyst. <br><br/><img src='/user_images/indeed_logo.png' width='300px'>"
 collection: portfolio
 ---
+
+Web scraping in progress:
 
 <img src='/user_images/Web Scraping Indeed.gif'>
 
@@ -12,7 +14,7 @@ collection: portfolio
 ### Aim
 Data is an emerging field that has been gaining popularity due to a few main factors, in my opinion: firstly the amount of data in the eco system has been greatly increased by the advent of the internet; second, the advancements in computing power has made data easier to process, especially making machine learning through deep neural networks feasible; finally, companies have realised the power of data for data analytics, or machine learning through data science.
 
-Due to the relatively new nature of the data field, data job positions haven't been concretely defined. To me there are a few stand out divisions. Namely `data engineer`, `data analyst`, `data scientist` and `business analyst`. To test this theory, I want to scrape these roles from Indeed and try see if I can differentiate them based on requirements.
+Due to the relatively new nature of the data field, data job positions haven't been concretely defined. To me there are a few stand out divisions. Namely **data engineer**, **data analyst**, **data scientist** and **business analyst**. To test this theory, I want to scrape these roles from Indeed and try see if I can differentiate them based on requirements.
 
 To achieve this, I will use logistic regression on the scraped descriptions to predict the associated job title. After using feature selection, I will be able to determine the respective role responsibilities.
 
@@ -21,7 +23,7 @@ Websites are constructed with 3 main components: html, which contains the conten
 
 Scraping involves using two tools: the crawler that navigates around the website to extract the page's html; and the parser that locates the html tag within the page's html to extract the relevant information. In this case we are trying to scrape the job title, salary, location, job type and description of data related job adverts.
 
-Below is an example of some html. Notice how URLs and the text are wrapped around <a> and </a> tags. Say we wanted to extract the URLs of the search engines; we could use the `search_engine` class attribute to differentiate it from the wikipedia link. The parser uses tags and attributes to locate the necessary information to scrape.
+Below is an example of some html. Notice how URLs and the text are wrapped around <a> and </a> tags. Say we wanted to extract the URLs of the search engines; we could use the **search_engine** class attribute to differentiate it from the wikipedia link. The parser uses tags and attributes to locate the necessary information to scrape.
 
 ```html
 <a class="information" href="https://en.wikipedia.org/">Wikipedia</a>
@@ -39,9 +41,9 @@ The lesson I've learned is to build a **robust** web scraper by reducing unneces
 I ended up using requests.get as the crawler, and XPath as the parser.
 
 ### Determining Role Requirements
-The next step is to use the scraped job descriptions to predict the job title as either a `data engineer`, `data analyst`, `data scientist` or `business analyst`. The job descriptions need to be preprocessed via count vectorisation. Count vectorisation involves breaking down each description into words and then counting how many times a specific unique word appears in that description. So if `python` appeared twice in a job advertisement, it would have a value of 2.
+The next step is to use the scraped job descriptions to predict the job title as either a **data engineer**, **data analyst**, **data scientist** or **business analyst**. The job descriptions need to be preprocessed via count vectorisation. Count vectorisation involves breaking down each description into words and then counting how many times a specific unique word appears in that description. So if **python** appeared twice in a job advertisement, it would have a value of 2.
 
-If `python` appeared more frequently in `data scientist` adverts than `business analyst` adverts, we could easily infer that `python` is an important role requirement for `data scientists` but not `business analysts`. Likewise, we can repeat that for other role requirements such as `tableau`, `sql`, `reporting`, etc.
+If **python** appeared more frequently in **data scientist** adverts than **business analyst** adverts, we could easily infer that **python** is an important role requirement for **data scientists** but not **business analysts**. Likewise, we can repeat that for other role requirements such as **tableau**, **sql**, **reporting**, etc.
 
 To determine this information, we will look at the feature importance for determining each job title from a logistic regression model.
 
@@ -59,13 +61,13 @@ By manually selecting features from my knowledge of data role requirements, we c
 
 <img src='/user_images/data engineer.JPG'>
 
-As expected, data engineers require a skill set focused on databases and cloud computing with Google Cloud Platform, AWS or Azure.
-
-<img src='/user_images/data analyst.JPG'>
-
 Data analysts have a focus on reporting and creating visualisations. 
 
 <img src='/user_images/data scientist.JPG'>
+
+As expected, data engineers require a skill set focused on databases and cloud computing with Google Cloud Platform, AWS or Azure.
+
+<img src='/user_images/data analyst.JPG'>
 
 Data scientists have a focus on python and machine learning.
 
@@ -80,5 +82,5 @@ There are multiple limitations involved with this analysis:
 * I have assumed there are only 4 main types of data jobs, there could be more such as data steward. This hypothesis could be tested using a clustering analysis
 * The analysis does not determine the true skills required for the job, but the skills asked for by advertisements. This is especially true as advertisements are written by HR and not data professionals, who may not know the true role requirements. A solution could be surveying data professionals and/or conducting an analysis on data professionals on LinkedIn
 * Job descriptions could be cleaned to only include relevant skill sets before count vectorisation
-* Words such as `reporting` can be ambiguous depending on context. It could mean `reporting to` or `reporting` by itself. This might be solvable using lemmatisation 
+* Words such as **reporting** can be ambiguous depending on context. It could mean **reporting to** or **reporting** by itself. This might be solvable using lemmatisation 
 
