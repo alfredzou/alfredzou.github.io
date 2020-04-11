@@ -4,7 +4,7 @@ excerpt: "Web scraper to extract job title, salary, company, location, employmen
 collection: portfolio
 ---
 
-<img src='/user_images/indeed_logo.png' width='300px'>
+<img src='/user_images/Web Scraping Indeed.gif'>
 
 ### Links
 * Find the code [here](https://github.com/alfredzou/Web-Scraping-Indeed)
@@ -37,10 +37,6 @@ I initially used Selenium as a crawler. Selenium creates a chrome browser than c
 The lesson I've learned is to build a **robust** web scraper by reducing unnecessary complexity and improving visibility during the scraping. This means avoiding javascript if possible and printing out the data being extracted. 
 
 I ended up using requests.get as the crawler, and XPath as the parser.
-
-Here is my web scraper in action:
-
-<img src='/user_images/Web Scraping Indeed.gif'>
 
 ### Determining Role Requirements
 The next step is to use the scraped job descriptions to predict the job title as either a `data engineer`, `data analyst`, `data scientist` or `business analyst`. The job descriptions need to be preprocessed via count vectorisation. Count vectorisation involves breaking down each description into words and then counting how many times a specific unique word appears in that description. So if `python` appeared twice in a job advertisement, it would have a value of 2.
