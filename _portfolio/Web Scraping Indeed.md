@@ -23,7 +23,7 @@ Websites are constructed with 3 main components: html, which contains the conten
 
 Scraping involves using two tools: the crawler that navigates around the website to extract the page's html; and the parser that locates the html tag within the page's html to extract the relevant information. In this case we are trying to scrape the job title, salary, location, job type and description of data related job adverts.
 
-Below is an example of some html. Notice how URLs and the text are wrapped around <a> and </a> tags. Say we wanted to extract the URLs of the search engines; we could use the **search_engine** class attribute to differentiate it from the wikipedia link. The parser uses tags and attributes to locate the necessary information to scrape.
+Below is an example of some html. Notice how URLs and the text are wrapped around `<a>` and `</a>` tags. Say we wanted to extract the URLs of the search engines; we could use the **search_engine** class attribute to differentiate it from the wikipedia link. The parser uses tags and attributes to locate the necessary information to scrape.
 
 ```html
 <a class="information" href="https://en.wikipedia.org/">Wikipedia</a>
@@ -41,9 +41,9 @@ The lesson I've learned is to build a **robust** web scraper by reducing unneces
 I ended up using requests.get as the crawler, and XPath as the parser.
 
 ### Determining Role Requirements
-The next step is to use the scraped job descriptions to predict the job title as either a **data engineer**, **data analyst**, **data scientist** or **business analyst**. The job descriptions need to be preprocessed via count vectorisation. Count vectorisation involves breaking down each description into words and then counting how many times a specific unique word appears in that description. So if **python** appeared twice in a job advertisement, it would have a value of 2.
+The next step is to use the scraped job descriptions to predict the job title as either a data engineer, data analyst, data scientist or business analyst. The job descriptions need to be preprocessed via count vectorisation. Count vectorisation involves breaking down each description into words and then counting how many times a specific unique word appears in that description. So if **python** appeared twice in a job advertisement, it would have a value of 2.
 
-If **python** appeared more frequently in **data scientist** adverts than **business analyst** adverts, we could easily infer that **python** is an important role requirement for **data scientists** but not **business analysts**. Likewise, we can repeat that for other role requirements such as **tableau**, **sql**, **reporting**, etc.
+If **python** appeared more frequently in data scientist adverts than business analyst adverts, we could easily infer that **python** is an important role requirement for data scientists but not business analysts. Likewise, we can repeat that for other role requirements such as **tableau**, **sql**, **reporting**, etc.
 
 To determine this information, we will look at the feature importance for determining each job title from a logistic regression model.
 
@@ -83,4 +83,3 @@ There are multiple limitations involved with this analysis:
 * The analysis does not determine the true skills required for the job, but the skills asked for by advertisements. This is especially true as advertisements are written by HR and not data professionals, who may not know the true role requirements. A solution could be surveying data professionals and/or conducting an analysis on data professionals on LinkedIn
 * Job descriptions could be cleaned to only include relevant skill sets before count vectorisation
 * Words such as **reporting** can be ambiguous depending on context. It could mean **reporting to** or **reporting** by itself. This might be solvable using lemmatisation 
-
