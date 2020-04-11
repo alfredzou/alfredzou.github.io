@@ -23,10 +23,11 @@ Scraping involves using two tools: the crawler that navigates around the website
 
 Below is an example of some html. Notice how URLs and the text are wrapped around <a> and </a> tags. Say we wanted to extract the URLs of the search engines; we could use the `search_engine` class attribute to differentiate it from the wikipedia link. The parser uses tags and attributes to locate the necessary information to scrape.
 
-# <a class="information" href="https://en.wikipedia.org/">Wikipedia</a>
-# <a class="search_engine" href="https://www.google.com/">Google</a>
-# <a class="search_engine" href="https://www.bing.com/">Bing</a>
-
+<!---
+<a class="information" href="https://en.wikipedia.org/">Wikipedia</a>
+<a class="search_engine" href="https://www.google.com/">Google</a>
+<a class="search_engine" href="https://www.bing.com/">Bing</a>
+-->
 
 From this process, you can see how each web scraper must be custom built for the website and can break easily if the website's html is changed. Essentially, we are at the mercies of the web developers.
 
