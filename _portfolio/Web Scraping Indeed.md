@@ -1,6 +1,6 @@
 ---
 title: "Web Scraping Indeed"
-excerpt: "Web scraper to extract job title, salary, company, location, employment type and description from data related jobs on Indeed.<br/><img src='/user_images/indeed_logo.png' width='500px'>"
+excerpt: "Web scraper to extract job title, salary, company, location, employment type and description from data related jobs on Indeed.<br/><img src='/user_images/indeed_logo.png' width='300px'>"
 collection: portfolio
 ---
 
