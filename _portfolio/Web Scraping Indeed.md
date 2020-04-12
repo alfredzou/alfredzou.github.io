@@ -61,15 +61,15 @@ By manually selecting features from my knowledge of data role requirements, we c
 
 <img src='/user_images/data engineer.JPG'>
 
-Data analysts have a focus on reporting and creating visualisations. 
+As expected, data engineers require a skill set focused on databases and cloud computing with Google Cloud Platform, AWS or Azure.
 
 <img src='/user_images/data scientist.JPG'>
 
-As expected, data engineers require a skill set focused on databases and cloud computing with Google Cloud Platform, AWS or Azure.
+Data scientists have a focus on python and machine learning.
 
 <img src='/user_images/data analyst.JPG'>
 
-Data scientists have a focus on python and machine learning.
+Data analysts have a focus on reporting and creating visualisations. 
 
 <img src='/user_images/business analyst.JPG'>
 
