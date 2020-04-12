@@ -82,4 +82,5 @@ There are multiple limitations involved with this analysis:
 * I have assumed there are only 4 main types of data jobs, there could be more such as data steward. This hypothesis could be tested using a clustering analysis
 * The analysis does not determine the true skills required for the job, but the skills asked for by advertisements. This is especially true as advertisements are written by HR and not data professionals, who may not know the true role requirements. A solution could be surveying data professionals and/or conducting an analysis on data professionals on LinkedIn
 * Job descriptions could be cleaned to only include relevant skill sets before count vectorisation
-* Words such as **reporting** can be ambiguous depending on context. It could mean **reporting to** or **reporting** by itself. This might be solvable using lemmatisation 
+* Words such as **cloud** can be ambiguous depending on context. It could mean **google cloud** or **cloud** by itself
+* Other possible NLP avenues include looking at lemmatisation or using tfidf rather than count verctorisation
