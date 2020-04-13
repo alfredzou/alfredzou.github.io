@@ -1,6 +1,6 @@
 ---
 title: "COVID-19 Dashboard"
-excerpt: "Visualise the spread of COVID-19 and compare the responses between countries<br/><img src='COVID-19 map.jpg' width='300px'>"
+excerpt: "Visualise the spread of COVID-19 and compare the responses between countries<br/><img src='/user_images/COVID-19 map.jpg' width='300px'>"
 collection: portfolio
 ---
 
@@ -8,18 +8,36 @@ collection: portfolio
 * View the dashboard [here](https://public.tableau.com/profile/alfred.zou#!/vizhome/COVID-19_15852011851070/COVID-19)
 * Find the code [here](https://github.com/alfredzou/COVID-19-Dashboard)
 
+### Introduction
+Amidst a global pandemic, I wanted to create a Tableau dashboard to help visualise and compare the COVID-19 responses between countries. Specifically, I wanted to recreate the 
+
+### Disclaimer
+I am not an epidemiologist or a doctor. Please take my findings with a grain of salt and only follow medical advice from [NSW Health](https://www.health.nsw.gov.au/Infectious/diseases/Pages/coronavirus.aspx).
+
 ### General Findings
 #### Act Early
-* At the start of a pandemic there are a lot of questions regarding if government actions are an overreaction
-* However, there is 
-* This usually leads to blame on governments for taking action too slowly
+At the start of the COVID-19 pandemic, there was a lot of wishful thinking that the virus would be contained in China and would not spread to the rest of the world. Governments were placed into a difficult situation on whether or not to enforce preventative policies at the risk of massive economic damage. Early actions implemented by governments are often met by questions of overreaction. The problem is that pandemics are not an immediate or a visible threat. Psychologically this doesn't feel real to us, unless we are personally affected. Personally, COVID-19 only started to feel real when General Assembly's Sydney campus was closed and moved to online lessons. To make this invisible threat visible, it important for governments to test for COVID-19. When there is a 
 
-#### Number of Cases
-* Its very difficult to determine the true number of cases
-* 
 
+
+On a psychological 
+
+
+#### Number of True Cases
+The Johns Hopkins University's GitHub Repo reports the number of confirmed COVID-19 cases in each country. However, one must keep in mind that there is a big difference between confirmed and true cases. Firstly, I want to stress that its impossible to accurately determine the number of true cases. No medical test can provide a 100% accurate prediction. COVID-19 test kits may have around a 30% false negative rate, this means 30% of the time people test negative despite having COVID-19. One COVID-19 test kit involves taking a nasal and throat swab for COVID-19 pathogens. If 
+
+E
+
+
+
+
+<img src='/user_images/COVID-19 map blog post.JPG'>
 
 #### Flattern the Curve
+
+
+
+
 * There are two possible types of pandemics: a tall one and a short one. 
 * There is also a horizontal line representing the total hospital capacity
 * Flattening the curve means taking preventative measures to slow down the spread
@@ -27,13 +45,13 @@ collection: portfolio
 * Or hand washing, social distancing, remote work and reducing unnecessary trips
 * Essentially squishing the tall curve below the hospital capacity line, relieving pressure off our medical system
 
-<img src="Img/COVID-19.png" width="800" align="left"/>
+<img src="/user_images/COVID-19.png"/>
 
-* Approximately 5% of total COVID-19 cases are severe which require an ICU bed and a ventilator
-* ICU 
+Approximately 5% of COVID-19 cases are critical and require treatment in an ICU ward with a ventilator.
+
+<img src="/user_images/Severe.png"/>
 
 
-<img src="Img/Severe.png" width="500" align="left"/>
 
 
 
@@ -44,6 +62,9 @@ collection: portfolio
 * [How To Tell If We're Beating COVID-19 by Minute Physics](https://www.youtube.com/watch?v=54XLXg4fYsc)
 * [The Coronavirus Explained & What You Should Do by Kurzgesagt](https://www.youtube.com/watch?v=BtN-goy9VOY)
 * [Estimating actual COVID 19 cases (novel corona virus infections) in an area based on deaths by Khan Academy](https://www.youtube.com/watch?v=mCa0JXEwDEk)
+* [Even if you test negative for COVID-19, assume you have it, experts say](https://www.livescience.com/covid19-coronavirus-tests-false-negatives.html)
+* [How Coronavirus Test Kits Work | WSJ](https://www.youtube.com/watch?v=tgyzdgf66eM)
+* [Taiwan has only 77 coronavirus cases. Its response to the crisis shows that swift action and widespread healthcare can prevent an outbreak.](https://www.businessinsider.com.au/coronavirus-taiwan-case-study-rapid-response-containment-2020-3?r=US&IR=T)
 
 ### Data Sources
 * Data on coronavirus cases from Johns Hopkins University's [githup repo](https://github.com/CSSEGISandData)
