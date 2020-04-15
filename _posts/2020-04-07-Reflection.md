@@ -58,4 +58,4 @@ After graduating, I am still in GA’s outcome program. This allows for continue
 
 ### Final Remarks
 
-Overall, GA's DSI course has been an an amazing experience. If you are considering taking this course, you need to make your own decisions based on your financial situation and professional goals. 
+Overall, GA's DSI course has been an an amazing experience and personally well worth the $17,500. If you are considering taking this course, you need to make your own decisions based on your financial situation and professional goals. 
