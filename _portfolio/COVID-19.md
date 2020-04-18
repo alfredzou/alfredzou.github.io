@@ -25,7 +25,7 @@ At the start of the COVID-19 pandemic, there was a lot of wishful thinking that 
 
 Countries like the US and [Brazil](https://www.latimes.com/world-nation/story/2020-04-09/brazils-president-refuses-to-admit-that-coronavirus-poses-a-real-threat-hes), who have down played the threat of COVID-19, are now facing the consequences of an explosive growth of cases and deaths.
 
-Where as Taiwan has pretty much contained the virus with only 395 confirmed cases on 18/04/20. Their [speedy response and testing](https://www.businessinsider.com.au/coronavirus-taiwan-case-study-rapid-response-containment-2020-3?r=US&IR=T) has be come a gold standard for an epidemic response.
+Where as Taiwan has pretty much contained the virus with only 395 confirmed cases as of 18/04/20. Their [speedy response and testing](https://www.businessinsider.com.au/coronavirus-taiwan-case-study-rapid-response-containment-2020-3?r=US&IR=T) has be come a gold standard for an epidemic response.
 
 <img src='/user_images/taiwangoldstandard.JPG'>
 
@@ -48,13 +48,13 @@ Firstly, I want to stress that its impossible to accurately determine the number
 
 Secondly, countries being unable to test due to resource limitations or failing to test, will also hide the true number of cases. Countries with large populations with low number of tests performed or countries with high mortality rates suggest that true cases are much larger than confirmed cases. Again the lack of visibility will cause a false sense of security and social complacency. The most comprehensive collection of testing data I have found is from [Our World In Data](https://ourworldindata.org/covid-testing).
 
-South Korea, despite a large outbreak from a religious cult, has managed to contain the virus through an aggressive testing scheme.
+South Korea, despite having a large outbreak from a religious cult, has managed to contain the virus through an aggressive testing scheme.
 
 On the other hand, the Japanese government has been heavily criticised for its lack of testing.
 
 <img src="/user_images/testing.JPG"/>
 
-Additionally, not all asymptomatic or mild carriers will be tested and could recover by themselves.
+Additionally, not all asymptomatic or mild carriers will be tested.
 
 <img src="/user_images/critical.png" width="500px"/>
 
@@ -73,7 +73,7 @@ The popular flatten the curve illustration shows two types of pandemics: the fir
 
 There are catastrophic consequences when a country's medical capacity is overwhelmed.
 
-<img src="/user_images/Active and Severe Cases US.JPG"/>
+<img src="/user_images/Active and Severe Cases ITL.JPG"/>
 
 ### The Future
 I hope I've conveyed the gravity of the current situation. Everyone needs to do their part to help contain the spread of COVID-19 through hand washing, social distancing, remote work and reducing unnecessary trips. I want to encourage everyone that staying at home and self isolating is extremely important and vital in slowing the spread of COVID-19. This in turns reduces the stress on medical systems and saves lives. My greatest appreciation to all the medical staff and anyone else combating COVID-19.
