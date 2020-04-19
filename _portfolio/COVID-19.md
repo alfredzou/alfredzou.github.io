@@ -65,7 +65,7 @@ The popular flatten the curve illustration shows two types of pandemics: the fir
 
 <img src="/user_images/COVID-19.png"/>
 
- Approximately 5% of COVID-19 cases are critical and require treatment in an intensive care unit (ICU) ward with a ventilator. However, each country only has a limited amount of ICU beds. Australia has about 93,000 hospital beds but only around 2229 ICU beds (2.4%). In most countries 1-3% of total hospital beds are ICU beds. To make matters worse, the normal average occupancy rate for ICU beds is around 75%. 
+ Approximately 5% of COVID-19 cases are critical and require treatment in an intensive care unit (ICU) ward with a ventilator. However, each country only has a limited amount of ICU beds. Australia has about 93,000 hospital beds but only around 2229 ICU beds (2.4%). In most countries 1-3% of total hospital beds are ICU beds. To make matters worse, the normal occupancy rate for ICU beds is between [65-75%.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5520980/) 
  
  In my dashboard, I have modelled the number of critical active cases for each country against its medical capacity, which I have represented by available ICU beds. This is an extremely simple model that doesn't take into account lots of factors like number of ventilators, nurses, doctors, etc. It also doesn't account for changing medical capacity from ICU surge capacity, production of new ventilators and medical staff needing to self isolate.
 
@@ -94,7 +94,7 @@ Unfortunately, I don't think there will be a light at the end of the tunnel unti
 * [How Coronavirus Test Kits Work WSJ](https://www.youtube.com/watch?v=tgyzdgf66eM)
 * [What This Chart Actually Means for COVID-19](https://www.youtube.com/watch?v=fgBla7RepXU)
 
-### Data Sources
+### Tableau Dashboard Data Sources
 * Data on coronavirus cases from Johns Hopkins University's [GitHup repository](https://github.com/CSSEGISandData)
 * Population estimates from [Worldometers.info](https://www.worldometers.info/world-population/population-by-country/)
 * US ICU beds estimate from [AHA 2015 Annual Survey](https://www.sccm.org/Communications/Critical-Care-Statistics)
