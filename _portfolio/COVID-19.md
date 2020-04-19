@@ -48,9 +48,9 @@ Firstly, I want to stress that its impossible to accurately determine the number
 
 Secondly, countries being unable to test due to resource limitations or failing to test, will also hide the true number of cases. Countries with large populations with low number of tests performed or countries with high mortality rates suggest that true cases are much larger than confirmed cases. Again the lack of visibility will cause a false sense of security and social complacency. The most comprehensive collection of testing data I have found is from [Our World In Data](https://ourworldindata.org/covid-testing).
 
-South Korea, despite having a large outbreak from a religious cult, has managed to contain the virus through an aggressive testing scheme.
+South Korea's epidemic response is quite amazing. Despite having a large outbreak from a religious cult, has managed to contain the virus through an aggressive testing scheme and contact tracing.
 
-On the other hand, the Japanese government has been heavily criticised for its lack of testing.
+On the other hand, the Japanese government has been heavily criticised for its lack of testing and strict testing requirements. It could be because of government fears of economic repercussions over a cancelled Tokyo Olympic games and an attempt to [downplay the threat of COVID-19.](https://www.nytimes.com/2020/02/29/world/asia/japan-elderly-coronavirus.html) Another explanation could be their inexperience with handling infectious diseases, due to being untouched by SARS or MERS.
 
 <img src="/user_images/testing.JPG"/>
 
