@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Alfred Zou - Aspiring Data Analyst"
+title                    : "Alfred Zou - Aspiring Data Analyst / Scientist"
 title_separator          : "-"
 name                     : &name "Alfred Zou"
 description              : &description "Data Science Graduate from General Assembly"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Alfred Zou"
   avatar           : "Alfred.png"
-  bio              : "Data Science graduate | Python | SQL | Tableau | Machine Learning Enthusiast"
+  bio              : "Data Analysis | Data Science | Python | SQL | Tableau"
   location         : 
   employer         :
   pubmed           : 
