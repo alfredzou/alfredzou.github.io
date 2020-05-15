@@ -2,7 +2,6 @@
 permalink: /
 title: "Hi, my name is Alfred. Welcome to my Data Story!"
 excerpt: "About me"
-image: "the-data-journey.jpg"
 author_profile: true
 redirect_from: 
   - /about/
