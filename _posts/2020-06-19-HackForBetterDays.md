@@ -2,12 +2,12 @@
 title: "Learnings from my First Hackathon"
 date: 2020-06-21
 permalink: /posts/2020/06/HackForBetterDays-Hackathon/
-excerpt: "<br/><img src='/user_images/HERE-Technologies.jpg' width='300'>"
+excerpt: "<br/><img src='/user_images/HERE-Technologies.jpg' width='700'>"
 tags:
   - Hackathon
 ---
 
-<img src='/user_images/HERE-Technologies.jpg' width='300'>
+<img src='/user_images/HERE-Technologies.jpg' width='700'>
 
 ### Introduction
 
@@ -15,9 +15,11 @@ A little over a month ago, I participated in my first hackathon. Initially I was
 
 On reflection, I'm happy I decided to participate in Here Technologies' HackForBetterDays hackathon. Regardless of the outcome, I'm happy with what our team managed to achieve, and the lessons learnt and experiences I've gained throughout the hack. If you're considering joining a hackathon, or interested in what a hackathon entails, I've written this post for you.
 
+Find the pitch video [here](https://www.youtube.com/watch?v=qQiwdzA1968)
+
 I've split this post into two main sections:
 * Lessons learnt from the hack, and
-* A deep dive into the HackForBetterDays hackathon. In this section, I give an introduction to the hack, our team's approach and how we spent our time over the one month.
+* A deep dive into the HackForBetterDays hackathon [here](https://alfredzou.github.io/posts/2020/06/HackForBetterDays-Hackathon/). In this section, I give an introduction to the hack, our team's approach and how we spent our time over the one month.
 
 ### Lessons Learnt
 Lessons learnt from a month long virtual hackathon with a team of 5. The aim was to build an app to address some sort of issue caused by COVID-19 with a location based component. I'm sure these ideas can be extrapolated to different types of hackathons.
@@ -41,7 +43,7 @@ This may seem familiar, as it is a modified version of 'the Dream Team': Hipster
 I think the ideal strategy starts with the ideation phase, where everyone agrees on the general app idea, the functionalities, the target users, etc. Then the hackers will focus on app design, including UX. It's hard for hipsters to know the technical capabilities of the hackers. Giving hackers complete control of the app and UX design, will streamline the development process, as they known their technical capabilities the best. In the meantime, the hustlers will focus on the pitch, which includes greater research into the impact, competitors, scalability, etc. of the app.
 
 ##### Diverse and small
-During the ideation phase, it's extremely difficult in coming up with an app idea. Picking an app idea that not only fits the theme, uses the organiser's products, and is unique or can improve on an existing app, is extremely difficult. This is where diversity comes into play. By leveraging the unique backgrounds and experiences of each team member, a lot more ideas can be brainstormed and evaluated.
+During the ideation phase, it's extremely difficult in coming up with an app idea. Picking an app idea that not only fits the theme, uses the organiser's products, and is unique or can improve on an existing app, is extremely difficult. This is where diversity comes into play. By leveraging the unique backgrounds and experiences of each team member, a lot more ideas can be brainstormed and evaluated. I believe no matter who you are, everyone has something valuable they can bring to the table.
 
 Additionally, I think a small team size between 4 to 6 is ideal because it's easier to get everyone engaged. Team engagement is important because...
 
@@ -66,34 +68,4 @@ There were some features our team wanted to implement. However during developmen
 #### Final remarks
 Although hackathons are a lot of work, it was a really enjoyable experience. The autonomy from choosing a project and working end-to-end on it, is unique and can't be normally experienced from working for a company. Unless maybe its a startup. I also enjoyed wearing multiple hats through ideation, UX design, development, pitching and video editing.
 
-
-
-
-### HackForBetterDays Hackathon
-
-In this section, I want to focus on 
-
-[Checkout our pitch video](https://www.youtube.com/watch?v=qQiwdzA1968)
-
-#### Ideation
-
-
-#### UI/UX design
-
-#### Software Development
-A week and a half before the submission date, you realise your team has no experience in app development. Cue panic attack.
-
-
-By the end of 
-
-#### Pitch
-
-
-### Final Remarks
-
-If you've read up to here, thank you so much. For this post, I wanted to focus on the lessons learnt rather than the final outcome. So, I've decided to reveal the outcome at the end...
-
-I'm pleased to announce that our team HackGuam, has won the HackForBetterDays hackathon. I want to stress that this was due to the combined efforts, skills and experiences of each member, and we couldn't of done it without everyone. Thanks to everyone on the team, I was a pleasure working with you guys!
-
-<img src='/user_images/HFBD-winners.jpg' width='300'>
-
+Read A deep dive into the HackForBetterDays hackathon [read here](https://alfredzou.github.io/posts/2020/06/HackForBetterDays-Hackathon/)
