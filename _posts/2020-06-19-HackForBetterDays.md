@@ -11,15 +11,11 @@ tags:
 
 ### Introduction
 
-A little over a month ago, I participated in my first hackathon. Initially I was apprehensive, but under the recommendation from my boot camp's career coach, I decided to give it a shot. After all, what's the worst that could happen? Due to the non-committal nature of hackthons, there's nothings stopping me or any of the other participants from dropping out. 
+Two-months ago, I participated in my first hackathon. Initially I was apprehensive, but under the recommendation from my boot camp's career coach, I decided to give it a shot. After all, what's the worst that could happen? Due to the non-committal nature of hackthons, there's nothings stopping me or any of the other participants from dropping out. 
 
 On reflection, I'm happy I decided to participate in Here Technologies' HackForBetterDays hackathon. Regardless of the outcome, I'm happy with what our team managed to achieve, and the lessons learnt and experiences I've gained throughout the hack. If you're considering joining a hackathon, or interested in what a hackathon entails, I've written this post for you.
 
 Find the pitch video [here](https://www.youtube.com/watch?v=qQiwdzA1968)
-
-I've split this post into two main sections:
-* Lessons learnt from the hack, and
-* A deep dive into the HackForBetterDays hackathon [here](https://alfredzou.github.io/posts/2020/06/HackForBetterDays-Hackathon/). In this section, I give an introduction to the hack, our team's approach and how we spent our time over the one month.
 
 ### Lessons Learnt
 Lessons learnt from a month long virtual hackathon with a team of 5. The aim was to build an app to address some sort of issue caused by COVID-19 with a location based component. I'm sure these ideas can be extrapolated to different types of hackathons.
@@ -67,5 +63,3 @@ There were some features our team wanted to implement. However during developmen
 
 #### Final remarks
 Although hackathons are a lot of work, it was a really enjoyable experience. The autonomy from choosing a project and working end-to-end on it, is unique and can't be normally experienced from working for a company. Unless maybe its a startup. I also enjoyed wearing multiple hats through ideation, UX design, development, pitching and video editing.
-
-Read A deep dive into the HackForBetterDays hackathon [read here](https://alfredzou.github.io/posts/2020/06/HackForBetterDays-Hackathon/)
