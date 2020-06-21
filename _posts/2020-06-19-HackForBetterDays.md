@@ -18,7 +18,7 @@ On reflection, I'm happy I decided to participate in Here Technologies' HackForB
 Find the pitch video [here](https://www.youtube.com/watch?v=qQiwdzA1968)
 
 ### Lessons Learnt
-Lessons learnt from a month long virtual hackathon with a team of 5. The aim was to build an app to address some sort of issue caused by COVID-19 with a location based component. I'm sure these ideas can be extrapolated to different types of hackathons.
+Lessons learnt from a month-long virtual hackathon with a team of 5. The aim was to build an app to address some sort of issue caused by COVID-19 with a location-based component. I'm sure these ideas can be extrapolated to different types of hackathons.
 
 #### What is a hackathon
 A hackathon is a timed competition where teams compete with each other for prizes. They often involve developing an app to solve some sort of social issue, whilst using the organiser's products. After developing the app, teams then pitch the concept to judges following the judging criteria.
@@ -27,7 +27,7 @@ A hackathon is a timed competition where teams compete with each other for prize
 Team formation is crucial in having a successful hackathon experience. I think the ideal team is balanced, diverse and small.
 
 ##### Balanced
-Hackathons essentially have two expected outputs: a working prototype and a pitch to sell it. A team full of developers and you'll have trouble selling your app. A team without developers and you'll have nothing to sell. Essentially, a balanced team of technical and non-technical people are required. If you're a non-technical person whose apprehensive about joining, I encourage you to give a shot.
+Hackathons essentially have two expected outputs: a working prototype and a pitch to sell it. A team full of developers and you'll have trouble selling your app. A team without developers and you'll have nothing to sell. Essentially, a balanced team of technical and non-technical people are required. If you're a non-technical person who's apprehensive about joining, I encourage you to give a shot.
 
 I think the ideal team looks something like this:
 * Hacker: In charge of app development and UX design
