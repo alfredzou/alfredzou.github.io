@@ -16,6 +16,4 @@ author_profile: true
 * GitHub: <a href="https://github.com/alfredzou">github.com/alfredzou</a>
 * General Assembly alumni profile: <a href="https://profiles.generalassemb.ly/profiles/alfredzou">profiles.generalassemb.ly/profiles/alfredzou</a>
 
-### Download my Resume/CV:
 
-* [Download my Resume](https://github.com/alfredzou/alfredzou.github.io/raw/master/files/Alfred%20Zou%20Resume.pdf)
