@@ -20,6 +20,3 @@ I hope to showcase some **cool data projects**:
 * [COVID-19 dashboard](https://alfredzou.github.io/portfolio/COVID-19/) that compares each countries' active cases with their hospital capacity, represented by ICU beds
 * [Web scraping Indeed](https://alfredzou.github.io/portfolio/Web%20Scraping%20Indeed/) to determine the different responsibilities between data engineer, analyst, scientist and business analyst.
 
-I am currently looking for a junior data analyst / scientist position at the moment. If you are interested in me or my projects, I would love to chat.
-
-<a href="/files/Alfred Zou Resume.pdf" download>Download my Resume</a>
